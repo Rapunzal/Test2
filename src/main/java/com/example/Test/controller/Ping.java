@@ -8,6 +8,6 @@ public class Ping {
 
     @GetMapping(value = "/")
     public String ping(){
-        return "pong";
+        return "pong Anya Arya";
     }
 }
